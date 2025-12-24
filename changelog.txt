@@ -1,0 +1,11 @@
+
+0.0.1-alpha:
+ - Release alpha
+
+---
+
+0.0.2-alpha:
+
+ - Auto Update
+
+---a
